@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Jayvon Heyliger",
-    "description":"I am a web development engineer and I use React to develop pages. This project will also be availble via my GitHub if you would like to view the source code.",
+    "description":"I am a Web Development Engineer and I use React to develop pages. This project will also be availble via my GitHub if you would like to view the source code.",
     "image":"profilepic.jpg",
-    "bio":"I have recently graduated from Kean University in Information Technology. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. My dream is utilize my passion for coding to influence others and later allow allow me to work all around the world.",
+    "bio":"I have recently graduated from Kean University in Information Technology with a concentration in Cybersecurity. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. Ultimately, my dream is utilize my passion for coding to influence others and later allow me to work all around the world.",
     "contactmessage":"Please feel free to contact me by phone or email",
     "email": "jaheyliger@yahoo.com",
     "phone": "(973) 454-8557",
@@ -42,13 +42,13 @@
         "school":"Kean University",
         "degree":"Bachelors in Information Technology",
         "graduated":"January 2020",
-        "description":"Here I took my Bacholors of Information Tecnology with a Cybersecurity Specialty and achieved a more thorough understanding of the concepts and science behind complex programming and security on the web. During this journey, I discovered my passion for developing scalable applications (web and mobile) and the security behind computer and application systems."
+        "description":"Here I took my Bacholors in Information Tecnology with a Cybersecurity Specialty and achieved a more thorough understanding of the concepts and science behind complex programming and security on the web. During this journey, I discovered my passion for developing scalable applications (web and mobile) and the security behind computer and application systems."
       },
       {
         "school":"Zero to Mastery",
         "degree":"Certification of Completion",
         "graduated":"December 2020 - Present",
-        "description":"Software Eningeering courses in the areas of React development and Python programming. These course helped me to furter my understanding of software engineering and strive to acheive my career goals."
+        "description":"Software Eningeering courses in the areas of React development and Javascript programming. These courses helped me to furter my understanding of web development and strive to achieve my career goals."
       },
       {
         "school":"Revature Spark Training",
@@ -67,7 +67,7 @@
       {
         "company":"Freelance",
         "title":"Web Designer",
-        "years":"December 2020 - January 2020",
+        "years":"December 2020 - January 2021",
         "description":"Collaborated with clients to create a UI/UX design for an commerce site that they were looking to build"
       }
     ],
