@@ -117,6 +117,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"CRWN Clothing",
+        "category":"Ecommerce clothes shopping site",
+        "image":"crwnclothing.png",
+        "url":"https://shopcrwn.herokuapp.com/"
+      },
+      {
         "title":"Portfolio",
         "category":"One of my previous portfolio designs",
         "image":"portfolio.jpg",
