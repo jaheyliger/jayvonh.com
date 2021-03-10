@@ -129,6 +129,12 @@
 				"url": "https://shopcrwn.herokuapp.com/"
 			},
 			{
+				"title": "Loruki",
+				"category": "Cloud Computing Service Distribution",
+				"image": "loruki.png",
+				"url": "https://loruki-cloud-computing.netlify.app"
+			},
+			{
 				"title": "Portfolio",
 				"category": "One of my previous portfolio designs",
 				"image": "portfolio.jpg",
