@@ -3,7 +3,7 @@
 		"name": "Jayvon Heyliger",
 		"description": "I am a Web Development Engineer and I use React to develop pages. This project will also be availble via my GitHub if you would like to view the source code.",
 		"image": "profilepic.jpg",
-		"bio": "I have recently graduated from Kean University in Information Technology with a concentration in Cybersecurity. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. Ultimately, my dream is utilize my passion for coding to influence others and later allow me to work all around the world.",
+		"bio": "I graduated from Kean University with a Bachelors in Information Technology and a concentration in Cybersecurity. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. Ultimately, my dream is utilize my passion for coding to influence others and later allow me to work all around the world.",
 		"contactmessage": "Please feel free to contact me by phone or email",
 		"email": "jaheyliger@yahoo.com",
 		"phone": "(973) 454-8557",
@@ -59,22 +59,22 @@
 		],
 		"work": [
 			{
+				"company": "Cognizant",
+				"title": "Frontend Developer",
+				"years": "June 2021 - Present",
+				"description": "As a part of the Digital Experience team, here I designed, created, and tested web applications from the viewpoint of user accessibility."
+			},
+			{
 				"company": "Michael Kors",
 				"title": "Mobile Admin",
-				"years": "March 2021 - Present",
+				"years": "March 2021 - June 2021",
 				"description": "Assited as part of a collaborative team to configure and install mobile Apple devices to rollout to company retail stores and sister brands."
 			},
 			{
 				"company": "NBCUniversal",
 				"title": "Desktop Support Engineer",
 				"years": "March 2020 - March 2021",
-				"description": "While working for NBCU I performed a variety of tasks including, but not limited to, imaging laptops, Mac software installation, domain management, VPN configuration, secure discarding of sensitive data, and troubleshooting."
-			},
-			{
-				"company": "Freelance",
-				"title": "Web Designer",
-				"years": "December 2020 - January 2021",
-				"description": "Collaborated with clients to create a UI/UX design for an commerce site that they were looking to build"
+				"description": "While working for NBCU I performed a ranged of tasks including, but not limited to, imaging laptops, Mac software installation, domain management, VPN configuration, secure discarding of sensitive data, and troubleshooting."
 			}
 		],
 		"skills": [
@@ -127,6 +127,12 @@
 				"category": "Ecommerce clothes shopping site",
 				"image": "crwnclothing.png",
 				"url": "https://crwnshopping.netlify.app"
+			},
+			{
+				"title": "Frontend Bootcamp",
+				"category": "Sign up for a Frontend Bootcamp",
+				"image": "frontend.png",
+				"url": "https://frontendbootcamp.netlify.app"
 			},
 			{
 				"title": "Loruki",
