@@ -25,7 +25,7 @@
 			},
 			{
 				"name": "instagram",
-				"url": "http://instagram.com/jaheyliger",
+				"url": "http://instagram.com",
 				"className": "fa fa-instagram"
 			},
 			{
@@ -49,12 +49,6 @@
 				"degree": "Certification of Completion",
 				"graduated": "December 2020 - Present",
 				"description": "Software Eningeering courses in the areas of React development and Javascript programming. These courses helped me to furter my understanding of web development and strive to achieve my career goals."
-			},
-			{
-				"school": "Revature Spark Training",
-				"degree": "Certification of Completion",
-				"graduated": "November 2020",
-				"description": "Software Engineering Training focused around Web Development languages, SQL, and Java. This included five projects designed to challenge, assess, and implement all of the material from the lectures and transform them into usable applications."
 			}
 		],
 		"work": [
