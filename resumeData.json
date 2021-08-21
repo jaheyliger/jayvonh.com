@@ -123,6 +123,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "CodeDojo",
+				"category": "Ecommerce site using the MERN stack with CRUD functionality",
+				"image": "crwnclothing.png",
+				"url": "http://codedojo-mern.s3-website-us-east-1.amazonaws.com/#/"
+			},
+			{
 				"title": "CRWN Clothing",
 				"category": "Ecommerce clothes shopping site",
 				"image": "crwnclothing.png",
