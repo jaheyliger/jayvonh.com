@@ -1,7 +1,7 @@
 {
 	"main": {
 		"name": "Jayvon Heyliger",
-		"description": "I am a Web Development Engineer and I use React to develop pages. This project will also be availble via my GitHub if you would like to view the source code.",
+		"description": "I am a Web Development Engineer and I use React to develop web pages. This project will also be availble via my GitHub if you would like to view the source code.",
 		"image": "profilepic.jpg",
 		"bio": "I graduated from Kean University with a Bachelors in Information Technology and a concentration in Cybersecurity. Currently, I use my time and resources to research and work on developing new projects. My goal for the near future is to land my first official development job. Ultimately, my dream is utilize my passion for coding to influence others and later allow me to work all around the world.",
 		"contactmessage": "Please feel free to contact me by phone or email",
@@ -148,7 +148,7 @@
 			},
 			{
 				"title": "Portfolio",
-				"category": "One of my previous portfolio designs",
+				"category": "(Offline Now) One of my previous portfolio designs",
 				"image": "portfolio.jpg",
 				"url": "http://www.jayvonheyliger.com"
 			},
